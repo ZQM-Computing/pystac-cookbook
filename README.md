@@ -11,7 +11,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A **pystac cookbook** — STAC catalogs in Python: building, reading, and validating. Patterns are drawn from the ZQM fleet's wave-11 installs (pystac 1.15.2 + pystac-client 0.9.1 on Node-1) and are design-only until fleet-validated. It is intended for Python developers who build and consume STAC catalogs programmatically. Validate each pattern against your own data, software versions, and operating environment before adopting it.
+A **pystac cookbook** — STAC catalogs in Python: building, reading, and validating. Patterns are drawn from the ZQM fleet's wave-11 installs (pystac 1.15.2 + pystac-client 0.9.1 on Node-1) (as of Oct 2026; verify against the current fleet) and are design-only until fleet-validated. It is intended for Python developers who build and consume STAC catalogs programmatically. Validate each pattern against your own data, software versions, and operating environment before adopting it.
 
 ## Repository role and status
 
